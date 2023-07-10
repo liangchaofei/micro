@@ -22,7 +22,7 @@ pnpm run dev
 ## 子应用
 http://localhost:8001/curry-fe-child/home
 
-## 主应用
+## 主应用嵌套的子应用
 http://localhost:8000/home/home
 
 # 复现
