@@ -3,7 +3,7 @@
 // DO NOT CHANGE IT MANUALLY!
 // @ts-nocheck
 /* eslint-disable */
-import { FrameworkConfiguration, FrameworkLifeCycles } from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
+import { FrameworkConfiguration, FrameworkLifeCycles } from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
 
 type BaseIConfig = any;
 

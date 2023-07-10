@@ -5,7 +5,7 @@
 /* eslint-disable */
 
 import { getPluginManager } from '@@/core/plugin';
-import { prefetchApps } from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
+import { prefetchApps } from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
 import { ApplyPluginsType } from 'umi';
 import { insertRoute, noop, patchMicroAppRoute } from './common';
 import { getMicroAppRouteComponent } from './getMicroAppRouteComponent';

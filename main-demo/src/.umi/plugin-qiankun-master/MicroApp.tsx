@@ -4,16 +4,16 @@
 // @ts-nocheck
 /* eslint-disable */
 import { useModel } from '@@/plugin-model';
-import concat from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/concat';
-import mergeWith from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/mergeWith';
-import isEqual from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/isEqual';
-import noop from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/noop';
+import concat from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/concat';
+import mergeWith from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/mergeWith';
+import isEqual from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/isEqual';
+import noop from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/noop';
 import {
   FrameworkConfiguration,
   loadMicroApp,
   MicroApp as MicroAppTypeDefinition,
   prefetchApps,
-} from '/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
+} from '/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/qiankun@2.10.11/node_modules/qiankun';
 import React, {
   forwardRef,
   Ref,

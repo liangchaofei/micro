@@ -13,8 +13,8 @@ import React, {
   HTMLAttributes,
   useCallback,
 } from 'react';
-import noop from '/Users/liangchaofei/Desktop/qiankun-demo/child/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/noop';
-import find from '/Users/liangchaofei/Desktop/qiankun-demo/child/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/find';
+import noop from '/Users/liangchaofei/Desktop/dd/micro/child-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/noop';
+import find from '/Users/liangchaofei/Desktop/dd/micro/child-demo/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/find';
 import {
   qiankunStateFromMasterModelNamespace,
   defaultHistoryType,

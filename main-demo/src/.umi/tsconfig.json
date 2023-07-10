@@ -27,7 +27,7 @@
         "src/.umi/*"
       ],
       "@umijs/max": [
-        "/Users/liangchaofei/Desktop/qiankun-demo/main/node_modules/.pnpm/umi@4.0.72_@babel+core@7.22.8_@types+react@18.2.14_eslint@8.35.0_postcss@8.4.25_prettier@3.0._jp7u54haezsckumcdbjt7lp73e/node_modules/umi"
+        "/Users/liangchaofei/Desktop/dd/micro/main-demo/node_modules/.pnpm/umi@4.0.72_@babel+core@7.22.8_@types+react@18.2.14_eslint@8.35.0_postcss@8.4.25_prettier@3.0._mivl5mm5qh2xk3cwkdr5y7i7qq/node_modules/umi"
       ],
       "@umijs/max/typings": [
         "src/.umi/typings"

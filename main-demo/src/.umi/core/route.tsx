@@ -18,7 +18,7 @@ export async function getRoutes() {
           return getMicroAppRouteComponent({ appName: 'curry-fe-child', base: '/', routePath: '/home/*', masterHistoryType: 'browser', routeProps: {'autoSetLoading':true} })
         })()).then(e => e?.default ? e : ({ default: e }))
             ),
-'ant-design-pro-layout': React.lazy(() => import(/* webpackChunkName: "umi__plugin-layout__Layout" */'/Users/liangchaofei/Desktop/qiankun-demo/main/src/.umi/plugin-layout/Layout.tsx')),
+'ant-design-pro-layout': React.lazy(() => import(/* webpackChunkName: "umi__plugin-layout__Layout" */'/Users/liangchaofei/Desktop/dd/micro/main-demo/src/.umi/plugin-layout/Layout.tsx')),
 },
   };
 }
